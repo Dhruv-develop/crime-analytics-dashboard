@@ -141,8 +141,12 @@ It transforms a large dataset into meaningful insights to understand crime patte
 
 **Dhruv Rapariya**
 
+Aspiring **Data Scientist / Data Analyst**
+
 ---
 
-## ⭐ If you like this project
+## ⭐ Feedback
 
-Give it a ⭐ on GitHub!
+Feedback and suggestions are always welcome.
+
+If you find this project useful, consider **starring ⭐ the repository**.
