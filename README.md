@@ -78,6 +78,10 @@ It transforms a large dataset into meaningful insights to understand crime patte
 * Top States by Crime Count
 * Top Cities by Crime Count
 
+<p align="center">
+  <img src="Dashboard Preview/Demographic_And_Victim_Profile.png" width="700">
+</p>
+
 ---
 
 ### 👥 3. Demographics & Victim Profile
@@ -86,6 +90,10 @@ It transforms a large dataset into meaningful insights to understand crime patte
 * Suspect Age Distribution
 * Victim Gender Distribution
 * Victim Count by Crime Type
+
+<p align="center">
+  <img src="Dashboard Preview/Geographic_Analysis.png" width="700">
+</p>
 
 ---
 
@@ -97,6 +105,10 @@ It transforms a large dataset into meaningful insights to understand crime patte
 * Impact of CCTV on Case Resolution
 * Property Loss vs Recovery (Waterfall Chart)
 * Total Property Loss & Recovery KPIs
+
+<p align="center">
+  <img src="Dashboard Preview/Investigation_And_Financial_Impact.png" width="700">
+</p>
 
 ---
 
@@ -132,25 +144,6 @@ It transforms a large dataset into meaningful insights to understand crime patte
 ✔ Supports better decision-making
 ✔ Improves understanding of investigation performance
 ✔ Highlights financial impact of crimes
-
----
-
-## 📸 Dashboard Preview
-
-### Crime Overview Analysis
-<p align="center">
-  <img src="Dashboard Preview/Overview_Analysis.png" width="700">
-</p>
-
-### Time Analysis
-<p align="center">
-  <img src="Dashboard Preview/Time_Analysis.png" width="700">
-</p>
-
-### Details Dashboard
-<p align="center">
-  <img src="Dashboard Preview/Detail_Analysis.png" width="700">
-</p
 
 ---
 
