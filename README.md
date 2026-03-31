@@ -79,8 +79,9 @@ It transforms a large dataset into meaningful insights to understand crime patte
 * Top Cities by Crime Count
 
 <p align="center">
-  <img src="Dashboard Preview/Demographic_And_Victim_Profile.png" width="700">
+  <img src="Dashboard Preview/Geographic_Analysis.png" width="700">
 </p>
+
 
 ---
 
@@ -92,7 +93,7 @@ It transforms a large dataset into meaningful insights to understand crime patte
 * Victim Count by Crime Type
 
 <p align="center">
-  <img src="Dashboard Preview/Geographic_Analysis.png" width="700">
+  <img src="Dashboard Preview/Demographic_And_Victim_Profile.png" width="700">
 </p>
 
 ---
