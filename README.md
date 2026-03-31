@@ -66,6 +66,10 @@ It transforms a large dataset into meaningful insights to understand crime patte
 * Crime Type Trend Analysis
 * Case Status Distribution
 
+<p align="center">
+  <img src="Dashboard Preview/Crime_Overview_And_Trend_Analysis.png" width="700">
+</p>
+
 ---
 
 ### 🗺️ 2. Geographic Crime Analysis
@@ -133,7 +137,20 @@ It transforms a large dataset into meaningful insights to understand crime patte
 
 ## 📸 Dashboard Preview
 
-(Add screenshots here)
+### Crime Overview Analysis
+<p align="center">
+  <img src="Dashboard Preview/Overview_Analysis.png" width="700">
+</p>
+
+### Time Analysis
+<p align="center">
+  <img src="Dashboard Preview/Time_Analysis.png" width="700">
+</p>
+
+### Details Dashboard
+<p align="center">
+  <img src="Dashboard Preview/Detail_Analysis.png" width="700">
+</p
 
 ---
 
