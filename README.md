@@ -114,22 +114,6 @@ The dataset consists of multiple attributes categorized as:
 
 ---
 
-## 📊 Key Insights
-
-📉 **Recovery Gap**
-➡ Only a portion of total property loss is recovered
-
-⏳ **Investigation Delay**
-➡ Average case resolution takes significant time
-
-📊 **Crime Trends**
-➡ Crime patterns vary across years and seasons
-
-📹 **Evidence Impact**
-➡ Cases with strong evidence show higher closure rates
-
----
-
 ## 🎯 Business Value
 
 ✔ Helps identify high-risk areas
