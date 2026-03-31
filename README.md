@@ -137,6 +137,15 @@ It transforms a large dataset into meaningful insights to understand crime patte
 
 ---
 
+## 🚀 How to Use
+
+1. Download the `.pbix` file
+2. Open in Power BI Desktop
+3. Interact using slicers and filters
+4. Use drill-through for detailed insights
+
+---
+
 ## 👨‍💻 Author
 
 **Dhruv Rapariya**
