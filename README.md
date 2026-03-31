@@ -1,4 +1,4 @@
-# 🚔 Crime Analysis & Investigation Dashboard (2000 – 2026) 📊
+# 🚔 Crime Analysis & Investigation Dashboard 📊
 
 ### Power BI Project
 
@@ -6,62 +6,52 @@
 
 ## 📌 Project Overview
 
-Crime is a critical issue impacting public safety, governance, and economic stability.
+This project presents an interactive **Crime Analysis Dashboard** built using Power BI.
 
-This project transforms a large dataset of **100,000+ crime records with multiple variables** into an interactive **Power BI dashboard** that provides meaningful insights.
-
-📊 The dashboard enables:
-
-* Exploration of crime trends over time
-* Identification of high-risk regions
-* Analysis of victim & suspect demographics
-* Evaluation of investigation performance
-* Assessment of financial impact of crimes
+It transforms a large dataset into meaningful insights to understand crime patterns, victim demographics, investigation performance, and financial impact.
 
 ---
 
 ## 🎯 Key Objectives
 
-✔ Analyze crime trends from 2000 to 2026
-✔ Identify crime hotspots (State & City level)
-✔ Study victim & suspect demographics
-✔ Evaluate investigation efficiency
-✔ Measure financial loss vs recovery gap
+✔ Analyze crime trends over time
+✔ Identify high-crime regions
+✔ Understand victim and suspect demographics
+✔ Evaluate investigation performance
+✔ Analyze financial loss and recovery
 
 ---
 
 ## 🗂️ Dataset Overview
 
-The dataset consists of multiple attributes categorized as:
-
 ### 🔹 Crime Information
 
 * Crime Type
-* Crime Severity
-* Weapon Used
+* Case Status
+* Gang Related
 
 ### 📍 Location Data
 
 * State
 * City
-* Area Type (Urban/Rural)
+* Area Type
 
 ### 👥 Demographics
 
-* Victim Age & Gender
-* Suspect Age & Gender
+* Victim Age
+* Suspect Age
+* Victim Gender
 
 ### 🕵️ Investigation Details
 
 * Arrest Made
-* Case Status
-* Evidence Type (CCTV, DNA, etc.)
 * Days to Close Case
+* CCTV Available
 
 ### 💰 Financial Data
 
-* Property Loss (₹)
-* Recovery Value (₹)
+* Property Loss
+* Recovery Value
 
 ---
 
@@ -69,19 +59,20 @@ The dataset consists of multiple attributes categorized as:
 
 ### 🏠 1. Crime Overview & Trend Analysis
 
-* KPI Cards: Total Crimes, Arrest Rate, Closure Rate
+* KPI Cards: Total Crimes, Arrest Rate, Case Closure Rate
 * Yearly Crime Trend
 * Monthly Crime Distribution
 * Crime Distribution by Time of Day
-* Crime Type Breakdown
+* Crime Type Trend Analysis
+* Case Status Distribution
 
 ---
 
 ### 🗺️ 2. Geographic Crime Analysis
 
-* Crime Distribution by Location
-* Top States & Cities by Crime Count
-* Identification of high-crime regions
+* Crime Distribution by State
+* Top States by Crime Count
+* Top Cities by Crime Count
 
 ---
 
@@ -89,7 +80,7 @@ The dataset consists of multiple attributes categorized as:
 
 * Victim Age Distribution
 * Suspect Age Distribution
-* Gender-based Analysis
+* Victim Gender Distribution
 * Victim Count by Crime Type
 
 ---
@@ -99,34 +90,50 @@ The dataset consists of multiple attributes categorized as:
 * Arrest Rate by Crime Type
 * Case Status Distribution
 * Investigation Duration Analysis
+* Impact of CCTV on Case Resolution
 * Property Loss vs Recovery (Waterfall Chart)
+* Total Property Loss & Recovery KPIs
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-| Tool                | Purpose                          |
-| ------------------- | -------------------------------- |
-| Power BI Desktop    | Dashboard Development            |
-| Power Query (M)     | Data Cleaning & Transformation   |
-| DAX                 | Measures & Calculations          |
-| Visualization Tools | Charts, Maps, Waterfall          |
+| Tool             | Purpose                 |
+| ---------------- | ----------------------- |
+| Power BI Desktop | Dashboard Development   |
+| Power Query      | Data Cleaning           |
+| DAX              | Measures & Calculations |
+
+---
+
+## 📊 Key Insights
+
+📉 **Financial Impact**
+➡ Significant gap between property loss and recovery
+
+📊 **Crime Trends**
+➡ Crime patterns vary across years and months
+
+👥 **Demographics**
+➡ Certain age groups are more affected by crimes
+
+📹 **CCTV Impact**
+➡ Cases with CCTV evidence show better resolution
 
 ---
 
 ## 🎯 Business Value
 
-✔ Helps identify high-risk areas
-✔ Supports data-driven policing strategies
-✔ Improves resource allocation
-✔ Highlights financial loss patterns
-✔ Enables better decision-making
+✔ Helps identify crime patterns
+✔ Supports better decision-making
+✔ Improves understanding of investigation performance
+✔ Highlights financial impact of crimes
 
 ---
 
 ## 📸 Dashboard Preview
 
-(Add your dashboard screenshots here)
+(Add screenshots here)
 
 ---
 
@@ -138,4 +145,4 @@ The dataset consists of multiple attributes categorized as:
 
 ## ⭐ If you like this project
 
-Give it a ⭐ on GitHub and share your feedback!
+Give it a ⭐ on GitHub!
